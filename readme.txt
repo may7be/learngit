@@ -6,3 +6,5 @@ Today is a good day.
 Creating a new branch is quick and simple for Git.                                 
 add merge
 stash
+pull3
+
